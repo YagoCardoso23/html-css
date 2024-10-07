@@ -1,0 +1,110 @@
+@charset "utf-8";
+
+@font-face {
+  font-family: 'mercado';
+  src: url(font/cream_cake/Cream\ Cake.otf);
+}
+*{
+  font-family: Arial, Helvetica, sans-serif;
+  /*height: 100%;*/
+
+}
+
+body{
+  background-image: linear-gradient(to right, rgb(176, 65, 62), rgb(158, 58, 55) );
+}
+
+div{
+  display: inline-block;
+ 
+}
+
+main {
+  background-color: rgb(205, 208, 209);
+  border-radius: 10px;
+  box-shadow: 5px 5px 15px #08211e;
+
+  padding: 20px;
+  text-align: center;
+}
+
+h1{
+  color: rgb(176, 65, 62);
+  text-align: center;
+  text-shadow: 1px 2px 0px rgb(132, 51, 49);
+  margin: auto;
+  font-family: 'mercado';
+  font-size: 4em;
+  }
+#principal{
+  background-color:rgb(176, 65, 62);
+  color: rgb(252, 252, 252);
+  box-shadow: 5px 5px 15px #08211e;
+  border-radius: 0%;
+  
+}
+
+a{
+  text-decoration: none;
+  color: rgb(176, 65, 62);
+  font-weight: bold;
+   font-family: 'mercado';
+}
+
+a:visited{
+  color: rgb(132, 51, 49);
+}
+
+a:hover{
+  color:black;
+  text-decoration: underline;
+  
+}
+a:active{
+  color: rgb(148, 148, 55);
+}
+
+h2{
+color: rgb(176, 65, 62);
+text-align: center;
+font-family: 'mercado';
+font-size: 3em;
+}
+
+.secundaria{
+  background-color:rgb(176, 65, 62);
+  color: rgb(252, 252, 252);
+  box-shadow: 5px 5px 15px #08211e;
+  border-radius: 90%;
+  width:250px;
+}
+
+.terceira{
+  color: rgb(176, 65, 62);
+  text-align: center;
+  margin: auto;
+  font-family: 'mercado';
+  font-size: 1.5em;
+}
+p {
+  text-align: justify;
+  text-align: center;
+
+}
+
+.foto{
+
+  height: 300px;
+  width: 300px;
+  border-width: 10px;
+  border-style: solid;
+
+
+
+  padding-top: 10px;
+  padding-right: 10px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+
+  margin-left: 10px;
+}

@@ -1,0 +1,23 @@
+body{
+  background-color: #26070A;
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  text-decoration: underline; 
+}
+
+h1{
+  color: #F27405;
+  background-color: #F20732;
+}
+
+p {
+  color: #F27405;
+}
+
+.primaria{
+  display: inline-block;
+}
+
+.secundaria{
+  display: inline-block;
+}

@@ -1,0 +1,52 @@
+body{
+   background-color: rgb(82, 82, 82);
+   text-align: center;
+
+  }
+
+  header{
+    background-color: ghostwhite;
+    color: black;
+    text-align: center;
+    padding-top: 1px;
+    padding-right: 15px;
+    padding-bottom: 5px;
+    padding-left: 15px;
+    margin-top: 30px;
+    margin-right: 34px;
+    margin-bottom: 31px;
+    margin-left: 34px;
+
+}
+
+  
+
+  main{
+  
+    color: black;
+    text-align: center;
+     }
+
+  nav{
+    background-color: ghostwhite;
+    color: black;
+    text-align: center;
+    padding-top: 1px;
+    padding-right: 15px;
+    padding-bottom: 5px;
+    padding-left: 15px;
+    margin-top: 30px;
+    margin-right: 34px;
+    margin-bottom: 31px;
+    margin-left: 34px;background-color: aliceblue;
+
+
+  }
+
+  section {
+    background-color: white;
+    color: black
+  }
+  article{
+    background-color: rgb(128, 128, 128);
+  }

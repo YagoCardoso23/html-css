@@ -1,0 +1,16 @@
+@font-face {
+  font-family:"destruir" ;
+  src: url(fontes/DAMAGEPLAN\ PERSONAL\ USE.ttf ) format(truetype);
+  font-weight: normal;
+}
+body{
+
+  font-family: 'destruir';
+  
+}
+
+/*tipos de fontes 
+opentype (otf)
+truetype(ttf)
+embedded-opentype 
+truetype-att (apple advanced typography */
