@@ -1,33 +1,32 @@
-  @charset "UTF-8";
-  /* em html e id = em css e #
+@charset "UTF-8";
+/* em html e id = em css e #
   em html e class em css e . */
-body{
-  background-color: #97DBBA;
+body {
+  background-color: #97dbba;
   font-family: Arial, Helvetica, sans-serif;
 }
 
-h1{
-  color: #638F79;
+h1 {
+  color: #638f79;
 }
 
-
-h1#principal{
-text-align: center;
-background-color: #638F79;
-color: azure;
+h1#principal {
+  text-align: center;
+  background-color: #638f79;
+  color: azure;
 }
- 
-h2{
+
+h2 {
   color: hsl(151, 18%, 25%);
 }
-.basico{
-color: hwb(240 0% 0%);
+.basico {
+  color: hwb(240 0% 0%);
 }
 
-.intermediario{
-color: crimson;
+.intermediario {
+  color: crimson;
 }
 
-.avancado{
-color: darkgoldenrod;
+.avancado {
+  color: darkgoldenrod;
 }
