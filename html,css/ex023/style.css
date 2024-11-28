@@ -30,6 +30,16 @@ thead , tfoot{
 td.num{
   text-align: right;
 }
+td.num2{
+  text-align: right;
+}
+
+td.num3{
+  text-align: right;
+  color: rgb(0, 104, 0);
+}
+
+
 
 main{
   
