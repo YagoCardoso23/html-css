@@ -1,0 +1,37 @@
+body{
+  font-family: Arial, Helvetica, sans-serif;
+   
+}
+
+h1{
+  background-color: gray;
+  color: rgb(255, 255, 255);
+  text-align: center;
+  padding: 20px;
+}
+table{
+  width: 500px;
+  border-collapse: collapse;
+}
+
+td, th {
+  border: 1px solid black;
+  padding: 10px;
+
+}
+
+thead , tfoot{
+ background-color: gray; 
+   color: white;
+
+}
+
+
+td.num{
+  text-align: right;
+}
+
+main{
+  
+  padding-top:  30px;
+}
